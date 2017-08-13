@@ -34,7 +34,10 @@ about:
   summary: 'Julian dates from proleptic Gregorian and Julian calendars.'
 
   description: |
-    This module contains functions for converting between Julian dates and calendar dates.
+    This module contains functions for converting between Julian dates and
+    calendar dates.
+  doc_url: https://github.com/phn/jdcal/blob/master/README.rst
+  doc_source_url: https://github.com/phn/jdcal/blob/master/README.rst
   dev_url: https://github.com/phn/jdcal
 
 extra:
